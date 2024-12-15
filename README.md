@@ -1,6 +1,6 @@
 # UAS-DP-1
 
-Nama Project  : Project Penjadwalan Kelompok
+Nama Project  : Project Penjadwalan kegiatan
 Nama Kelompok : Anis
 Nama Anggota  : 
 1. Alfin Mubarkah Tanjung (241401013)
